@@ -10,3 +10,6 @@ After some extensive research on the current state of the ATS, I took inspiratio
 This project is made up of two main parts:
 - The implementation of an artificial neural network for aircraft trajectory prediction using weather data
 - The simulation of a communication reduction framework, in order to limit the frequency of air-ground communication
+
+The main file is the Python Notebook, while the implementation of the neural network and the data handling are located in .py files.
+You can also find the Powerpoint Presentations on the "IRP ppt" folder for more insight on the different steps that the project went through.
